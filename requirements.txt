@@ -1,0 +1,5 @@
+google-generativeai
+python-dotenv
+scikit-learn
+pypdf2
+pyTelegramBotAPI
